@@ -45,7 +45,7 @@ nav li {
 /* Mission Section */
 
 #mission {
-    background-image: url(../images/img-mission-background.jpg);
+    background-image: url(img-mission-background.jpg);
     background-repeat: no-repeat;
     padding: 24px 0px;
     height: 700px;
@@ -91,7 +91,7 @@ nav li {
 /* Locations Section */
 
 #locations {
-    background-image: url(../images/img-locations-background.jpg);
+    background-image: url(img-locations-background.jpg);
     background-repeat: no-repeat;
     padding: 24px 0px;
     height: 500px;
